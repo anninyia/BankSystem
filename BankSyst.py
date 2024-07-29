@@ -1,7 +1,3 @@
-# Para saber as personalizações da minha IDE, vide README.md no repositório anninyia.
-
-#---------------------------------------------------------------------------------------------------------------------------#
-
 # ! leia README.md para mais detalhes sobre o projeto
 # ? Implementar um sistema de gerente !
 
