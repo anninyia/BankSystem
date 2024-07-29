@@ -1,7 +1,4 @@
-<span style="font-size: 40px; background: linear-gradient(to right, #d34ae3, white); -webkit-background-clip: text; color: transparent; position: relative;">
-    Sistema Bancário em Python
-    <span style="position: absolute; left: 0; z-index: -1; text-shadow: 0px -1px 0 #000, 1px -1px 0 #000;">Sistema Bancário em Python</span>
-</span>
+# <span style = "color: #FFFFFF; font-size 40px; font-family: 'Cascadia Code', monospace; font-style: italic"> Sistema Bancário em Python </span>
 
 
 ## <span style = "color: #d34ae3; font-size 20px; font-family: 'Cascadia Code', monospace; font-style: italic; background: linear-gradient(to right, #d34ae3, white); -webkit-background-clip: text; color: transparent"> Descrição </span>
