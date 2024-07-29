@@ -74,25 +74,3 @@ Siga as instruções no terminal para navegar pelo menu do sistema bancário.
 Para dúvidas ou mais informações, peço para que entre em contato pelo e-mail annavictoriagoncalvesmarciano@gmail.com e, caso eu não responda em até 3 dias úteis, me envie novamente o e-mail(sabem como é, muita coisa, muitas obrigações e muitos e-mails para responder e ordenar hehe. De antemão, já peço perdão por qualquer problema).
 
 Espero que goste do sistema! Qualquer feedback é bem-vindo! 😊
-
-## <span style = "color: #FFFFFF; font-size 40px; font-family: 'Cascadia Code', monospace; font-style: italic"> Configurações da minha IDE: </span>
-
-### IDE usada: 
-#### <span style = "color: #000000"> Visual Studio Code. </span>
-
-### Extensões de Configurações: 
-- <span style = "color: #000000"> Auto-Save on Window Change</span>
-- <span style = "color: #000000"> GitHub Copilot </span>
-- <span style = "color: #000000"> IntelliCode </span>
-- <span style = "color: #000000"> markdownlint </span>
-- <span style = "color: #000000"> Path Intellisense </span>
-- <span style = "color: #000000"> Pylance </span>
-- <span style = "color: #000000"> Python </span>
-- <span style = "color: #000000"> Python Debugger </span>
-
-### Extensões de Personalização:
-- <span style = "color: #000000"> Better Comments</span>
-- <span style = "color: #000000"> Catppuccin Icons for VSCode </span>
-- <span style = "color: #000000"> Dark Pink Theme </span>
-- <span style = "color: #000000"> ident-rainbow </span>
-- <span style = "color: #000000"> vscode-pets </span>
