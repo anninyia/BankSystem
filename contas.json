@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Maria Oliveira",
+        "data_nascimento": "25/09/1995",
+        "cpf": "987.654.321-10",
+        "numero_conta": "654321",
+        "pin": "4321",
+        "saldo": 43600.0,
+        "transacoes": [
+            {
+                "tipo": "Transfer\u00eancia recebida",
+                "valor": 40000.0,
+                "data": "2024-06-04 20:55:54",
+                "origem": "000969"
+            }
+        ]
+    }
+]
